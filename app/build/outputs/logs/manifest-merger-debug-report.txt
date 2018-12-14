@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-53:12
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd2af24de38ba12889dbb7920dabaf67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/limat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6ed87c889fc41bfbc53906df31bbec22/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d671473d741184406a500a9e34d3b76c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/73a040812e197d0d629ea43f309b1e82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3e6b70b1b7127d9ab3e048a05f5c852e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/16920bd0fb6456029139ca0cd113b6bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9c8c277bc641b9fe2a09a14212b03bd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7c63362d70d7e4876c50a14f61651892/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7aeeee8ed2b1cc6e9ac1bbe9aec5406d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8dd8450f3e11fdb138628fc63b87d15f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/08961984c6e75c59764f76c98d2b60f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6bad92ea516d83ea25b837454bf1699c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/47806b3892c0dc0582c8e3c06aa11e87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/146b1c692f893dea13538629c1b3260a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/296d610cc2fc1997daf1751399b4b625/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ab425cce6fc1f8136e526ed8b3a92fc1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9ef144d6ccfdbddfbc03e51e8977d4e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b9cdf7aeff243bc5a96b543b89e1e134/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c2986a0ff346726f887fa66f75cce9b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c8ff14dad07f22a21d7e4002a0de101f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1b5e17a3c5bf71638e927f36f16e2131/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12ff00ef358a00ba8c42af588c9bdfcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7030190d7f04184cd27976f41636ed08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ce14b3d494c0d25ae428ba1077110e37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/66f12abe53272e3e7ddc8d1453f3889a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bab6d788e48520dc566d7f489ac8009a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2d5be2592fde9d3c8b8d1139ce87c427/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7ee7d74f40fc959c624171d5b82f76a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a29419cb6395902032d7fc6b28336db2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afdb63df4275fdc0f6fec7894a75173d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+	package
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd2af24de38ba12889dbb7920dabaf67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd2af24de38ba12889dbb7920dabaf67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/limat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6ed87c889fc41bfbc53906df31bbec22/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/limat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6ed87c889fc41bfbc53906df31bbec22/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d671473d741184406a500a9e34d3b76c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d671473d741184406a500a9e34d3b76c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/73a040812e197d0d629ea43f309b1e82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/73a040812e197d0d629ea43f309b1e82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3e6b70b1b7127d9ab3e048a05f5c852e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3e6b70b1b7127d9ab3e048a05f5c852e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/16920bd0fb6456029139ca0cd113b6bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/16920bd0fb6456029139ca0cd113b6bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9c8c277bc641b9fe2a09a14212b03bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9c8c277bc641b9fe2a09a14212b03bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7c63362d70d7e4876c50a14f61651892/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7c63362d70d7e4876c50a14f61651892/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7aeeee8ed2b1cc6e9ac1bbe9aec5406d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7aeeee8ed2b1cc6e9ac1bbe9aec5406d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8dd8450f3e11fdb138628fc63b87d15f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8dd8450f3e11fdb138628fc63b87d15f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/08961984c6e75c59764f76c98d2b60f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/08961984c6e75c59764f76c98d2b60f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6bad92ea516d83ea25b837454bf1699c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6bad92ea516d83ea25b837454bf1699c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/47806b3892c0dc0582c8e3c06aa11e87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/47806b3892c0dc0582c8e3c06aa11e87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/146b1c692f893dea13538629c1b3260a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/146b1c692f893dea13538629c1b3260a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/296d610cc2fc1997daf1751399b4b625/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/296d610cc2fc1997daf1751399b4b625/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ab425cce6fc1f8136e526ed8b3a92fc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ab425cce6fc1f8136e526ed8b3a92fc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9ef144d6ccfdbddfbc03e51e8977d4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9ef144d6ccfdbddfbc03e51e8977d4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b9cdf7aeff243bc5a96b543b89e1e134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b9cdf7aeff243bc5a96b543b89e1e134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c2986a0ff346726f887fa66f75cce9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c2986a0ff346726f887fa66f75cce9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c8ff14dad07f22a21d7e4002a0de101f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c8ff14dad07f22a21d7e4002a0de101f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1b5e17a3c5bf71638e927f36f16e2131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1b5e17a3c5bf71638e927f36f16e2131/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12ff00ef358a00ba8c42af588c9bdfcd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12ff00ef358a00ba8c42af588c9bdfcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7030190d7f04184cd27976f41636ed08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7030190d7f04184cd27976f41636ed08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ce14b3d494c0d25ae428ba1077110e37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ce14b3d494c0d25ae428ba1077110e37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/66f12abe53272e3e7ddc8d1453f3889a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/66f12abe53272e3e7ddc8d1453f3889a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bab6d788e48520dc566d7f489ac8009a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bab6d788e48520dc566d7f489ac8009a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2d5be2592fde9d3c8b8d1139ce87c427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2d5be2592fde9d3c8b8d1139ce87c427/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7ee7d74f40fc959c624171d5b82f76a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7ee7d74f40fc959c624171d5b82f76a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a29419cb6395902032d7fc6b28336db2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a29419cb6395902032d7fc6b28336db2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afdb63df4275fdc0f6fec7894a75173d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afdb63df4275fdc0f6fec7894a75173d/AndroidManifest.xml:20:5-44
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+application
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-51:19
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/limat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6ed87c889fc41bfbc53906df31bbec22/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/limat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6ed87c889fc41bfbc53906df31bbec22/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b9cdf7aeff243bc5a96b543b89e1e134/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b9cdf7aeff243bc5a96b543b89e1e134/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c2986a0ff346726f887fa66f75cce9b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7c2986a0ff346726f887fa66f75cce9b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b9cdf7aeff243bc5a96b543b89e1e134/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:9-40
+activity#com.example.limat.reciboretiro.feature.MainActivity
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-29:20
+	android:name
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:19-85
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:example.com+data:pathPattern:/.*+data:scheme:https
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-23:29
+	android:order
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:28-45
+action#android.intent.action.VIEW
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:17-78
+	android:name
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:27-75
+category#android.intent.category.DEFAULT
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:27-73
+data
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-22:46
+	android:host
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:21-47
+	android:scheme
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:21-43
+	android:pathPattern
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:21-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:27-74
+activity#com.example.limat.reciboretiro.feature.Main2Activity
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:30:9-50:20
+	android:label
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:32:13-57
+	android:theme
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:31:13-80
+meta-data#aia-compat-api-min-version
+ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:9-20:33
+	android:value
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:13-30
+	android:name
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:13-54
