@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/limat/AndroidStudioProjects/ReciboRetiro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
+            "outputFile": "/home/limat/AndroidStudioProjects/ReciboRetiro2018/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/home/limat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b9cdf7aeff243bc5a96b543b89e1e134/res/values-km/values-km.xml",

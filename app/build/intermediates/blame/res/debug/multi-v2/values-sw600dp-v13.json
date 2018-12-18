@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/limat/AndroidStudioProjects/ReciboRetiro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/home/limat/AndroidStudioProjects/ReciboRetiro2018/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/res/values-sw600dp-v13/values-sw600dp-v13.xml",

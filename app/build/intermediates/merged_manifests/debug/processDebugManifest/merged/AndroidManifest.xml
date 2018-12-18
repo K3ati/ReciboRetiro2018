@@ -56,6 +56,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.limat.reciboretiro.feature.Dados" />
 
         <meta-data
             android:name="aia-compat-api-min-version"

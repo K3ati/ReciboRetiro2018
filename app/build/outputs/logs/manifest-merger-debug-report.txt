@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
-MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-53:12
-MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
+MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-54:12
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd2af24de38ba12889dbb7920dabaf67/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/limat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6ed87c889fc41bfbc53906df31bbec22/AndroidManifest.xml:2:1-11:12
@@ -37,31 +37,31 @@ MERGED from [com.android.support:interpolator:28.0.0] /home/limat/.gradle/caches
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7ee7d74f40fc959c624171d5b82f76a7/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a29419cb6395902032d7fc6b28336db2/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afdb63df4275fdc0f6fec7894a75173d/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
 	package
-		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:2:5-49
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:1-2:52
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:1-2:52
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
-MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
-MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
-MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd2af24de38ba12889dbb7920dabaf67/AndroidManifest.xml:20:5-44
@@ -124,20 +124,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/limat/.gradle/cac
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a29419cb6395902032d7fc6b28336db2/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afdb63df4275fdc0f6fec7894a75173d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/limat/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/afdb63df4275fdc0f6fec7894a75173d/AndroidManifest.xml:20:5-44
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
-		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+		ADDED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
+		INJECTED from /home/limat/AndroidStudioProjects/ReciboRetiro2018/app/src/main/AndroidManifest.xml
 application
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-51:19
-MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
-MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-52:19
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
 MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/272ee3c4c09aa7ffd3e84ab255c596fe/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/limat/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6ed87c889fc41bfbc53906df31bbec22/AndroidManifest.xml:9:5-20
@@ -149,66 +149,70 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/limat/.gradle
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/limat/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b9cdf7aeff243bc5a96b543b89e1e134/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:9-35
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-41
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:9-54
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:9-43
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-35
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:9-40
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:9-40
 activity#com.example.limat.reciboretiro.feature.MainActivity
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-29:20
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-29:20
 	android:name
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:19-85
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:19-85
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:example.com+data:pathPattern:/.*+data:scheme:https
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-23:29
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-23:29
 	android:order
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:28-45
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:28-45
 action#android.intent.action.VIEW
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:17-69
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:25-66
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:17-78
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:17-78
 	android:name
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:27-75
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:27-75
 category#android.intent.category.DEFAULT
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:17-76
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:27-73
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:27-73
 data
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-22:46
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-22:46
 	android:host
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:21-47
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:21-47
 	android:scheme
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:21-43
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:21-43
 	android:pathPattern
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:21-46
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:21-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:13-28:29
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:17-69
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:25-66
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:17-77
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:27-74
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:27:27-74
 activity#com.example.limat.reciboretiro.feature.Main2Activity
-ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:30:9-50:20
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:30:9-50:20
 	android:label
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:32:13-57
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:32:13-57
 	android:theme
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:33:13-56
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:31:13-80
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:31:13-80
+activity#com.example.limat.reciboretiro.feature.Dados
+ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:51:9-81
+	android:name
+		ADDED from [:feature] /home/limat/AndroidStudioProjects/ReciboRetiro2018/feature/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:51:19-78
 meta-data#aia-compat-api-min-version
-ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:9-20:33
+ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:9-20:33
 	android:value
-		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:13-30
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:20:13-30
 	android:name
-		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:13-54
+		ADDED from [:base] /home/limat/AndroidStudioProjects/ReciboRetiro2018/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:13-54

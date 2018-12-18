@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 
 
 public class MainActivity extends Activity {
@@ -20,23 +21,15 @@ public class MainActivity extends Activity {
     }
 
     public void enviarDados(View view){
-        EditText nome = (EditText) findViewById(R.id.nome);
-        EditText valor = (EditText) findViewById(R.id.valor);
-        EditText dataPagamento = (EditText) findViewById(R.id.dataPagamento);
+        Intent intent = new Intent(this,Dados.class);
 
-        Bundle params = new Bundle();
-        params.putString("nome",nome.getText().toString());
-        params.putString("valor",valor.getText().toString());
-        params.putString("dataPagamento",dataPagamento.getText().toString());
+        TextView nome = (TextView) findViewById(R.id.nome);
+        intent.putExtra("Nome",nome.getText().toString());
 
-        Intent intent = new Intent(this, Main2Activity.class);
-        intent.putExtras(params);
-        
-        startActivityForResult(intent, CONSTANTE_ACTIVITY_2);
+        startActivity(intent);
 
     }
 
-    private void startActivityForResult(Intent intent) {
-    }
+    private void startActivityForResult(Intent intent) { }
 
 }
